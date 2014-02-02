@@ -1,0 +1,15 @@
+hipchat:
+  enabled: no
+  api_key: 
+  room_id: 
+  from: 
+  color: 
+  notify: 
+  message: 
+
+slack:
+  enabled: no
+  api_key: 
+  channel: 
+  from: 
+  message:
