@@ -27,5 +27,13 @@ asana:
   api_key:
   checkout_complete:
     enabled: no
+    workspace:
+    assignee:
+    task_name:
+    notes:
   member_registration:
     enabled: no
+    workspace:
+    assignee:
+    task_name:
+    notes:

@@ -9,3 +9,9 @@ slack:
     enabled: no
   member_registration:
     enabled: no
+
+asana:
+  checkout_complete:
+    enabled: no
+  member_registration:
+    enabled: no
