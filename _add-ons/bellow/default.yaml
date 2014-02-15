@@ -1,0 +1,11 @@
+hipchat:
+  checkout_complete:
+    enabled: no
+  member_registration:
+    enabled: no
+
+slack:
+  checkout_complete:
+    enabled: no
+  member_registration:
+    enabled: no
